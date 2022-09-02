@@ -34,4 +34,4 @@ The partition shows Japan divided into sections delineated by longitudinal lines
 
 The Grid Square Codes are 4-digit numbers which are made by arranging, in the following order, the first 2-digit number derived by multiplying the southernmost latitude of the partition by 1.5, and the last 2-digit number derived by subtracting 100 from the westernmost longitude of the partition.
 
-![Primary Area Partition Document](https://github.com/lowlevelware/gazetteer/blob/main/grid-id.PNG)
+<img src="grid-id.PNG" alt="Primary Area Partition Document" width="800"/>
