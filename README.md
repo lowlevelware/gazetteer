@@ -1,4 +1,4 @@
-# The National Geographical Name Gazetteer og Japan
+# The National Geographical Name Gazetteer Of Japan
 [地名集 日本](https://www.gsi.go.jp/kihonjohochousa/gazetteer.html) is published by the Government of Japan, authored by the [Geospatial Information Authority of Japan](https://www.gsi.go.jp/top.html) and the Hydrographic and Oceanographic Departmenof Japan Coast Guard. The data published in this software bundle is the translated/normalized version of the information available in PDF on the national gazetteer.
 
 ## Preface
